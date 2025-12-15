@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Olá, eu sou Giovanni Provazi
 
-<!--
-**giprovazi/giprovazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software (FIAP)  
+💻 Desenvolvedor Backend Java | Spring Boot  
+🚀 Focado em APIs REST e boas práticas de backend
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias
+- Java
+- Spring Boot
+- Spring Data JPA
+- Hibernate
+- REST APIs
+- MySQL / H2
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projetos em Destaque
+- 🏥 Backend Clínica Médica (Spring Boot)
+- 🌱 Projetos acadêmicos focados em boas práticas
+
+## 📫 Contato
+- LinkedIn: https://www.linkedin.com/in/giovanni-provazi/
+- Email: giovannirprovazi@gmail.com
