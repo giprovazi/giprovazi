@@ -50,7 +50,7 @@ Atualmente estou em constante evolução, aprofundando meus estudos em **Spring 
 API REST desenvolvida em Java com Spring Boot, simulando o sistema de uma clínica médica.  
 Inclui cadastro de médicos, pacientes e consultas, relacionamento entre entidades e regras de negócio.
 
-🔗 *[link do repositório]*
+🔗 https://github.com/giprovazi/spring_hospital.git
 
 ### 🍽️ NutriSabará
 Projeto acadêmico voltado para nutrição infantil, com integração entre sistema e dispositivos IoT.
