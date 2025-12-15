@@ -1,22 +1,64 @@
-# 👋 Olá, eu sou Giovanni Provazi
+# 👋 Olá! Eu sou o Giovanni Provazi
 
-🎓 Estudante de Engenharia de Software (FIAP)  
-💻 Desenvolvedor Backend Java | Spring Boot  
-🚀 Focado em APIs REST e boas práticas de backend
+🎓 Estudante de Engenharia de Software na FIAP  
+💻 Desenvolvedor Backend Java  
+🚀 Focado em APIs REST, Spring Boot e boas práticas de backend
 
-## 🛠️ Tecnologias
-- Java
+---
+
+## 🧠 Sobre mim
+Sou estudante de Engenharia de Software com foco em **desenvolvimento backend em Java**.  
+Tenho experiência na construção de **APIs REST**, modelagem de entidades, relacionamento com banco de dados e regras de negócio, sempre buscando código limpo e escalável.
+
+Atualmente estou em constante evolução, aprofundando meus estudos em **Spring Boot e arquitetura backend**.
+
+---
+
+## 💼 Áreas de Interesse
+- Backend Java
 - Spring Boot
-- Spring Data JPA
-- Hibernate
-- REST APIs
-- MySQL / H2
-- Git & GitHub
+- APIs REST
+- Sistemas corporativos
+- Arquitetura de software
 
-## 📌 Projetos em Destaque
-- 🏥 Backend Clínica Médica (Spring Boot)
-- 🌱 Projetos acadêmicos focados em boas práticas
+---
+
+## 🚀 Tecnologias
+
+### 🔹 Backend
+- Java  
+- Spring Boot  
+- Spring Data JPA / Hibernate  
+
+### 🔹 Banco de Dados
+- SQL (básico)
+
+### 🔹 Ferramentas
+- Git & GitHub  
+- Postman  
+
+### 🔹 Outros conhecimentos
+- JavaScript  
+- Node.js  
+- React  
+
+---
+
+## 📂 Projetos em Destaque
+
+### 🏥 Backend Clínica Médica
+API REST desenvolvida em Java com Spring Boot, simulando o sistema de uma clínica médica.  
+Inclui cadastro de médicos, pacientes e consultas, relacionamento entre entidades e regras de negócio.
+
+🔗 *[link do repositório]*
+
+### 🍽️ NutriSabará
+Projeto acadêmico voltado para nutrição infantil, com integração entre sistema e dispositivos IoT.
+
+🔗 *[link do repositório]*
+
+---
 
 ## 📫 Contato
-- LinkedIn: https://www.linkedin.com/in/giovanni-provazi/
-- Email: giovannirprovazi@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/giovanni-provazi/
+- ✉️ Email: giovannirprovazi@gmail.com
