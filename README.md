@@ -52,10 +52,26 @@ Inclui cadastro de médicos, pacientes e consultas, relacionamento entre entidad
 
 🔗 https://github.com/giprovazi/spring_hospital.git
 
-### 🍽️ NutriSabará
-Projeto acadêmico voltado para nutrição infantil, com integração entre sistema e dispositivos IoT.
+---
 
-🔗 *[link do repositório]*
+### 🏥 CRM Hospital São Rafael *(em construção)*
+Sistema **CRM hospitalar** em desenvolvimento, voltado para a gestão de pacientes, profissionais da saúde e atendimentos.
+
+**Objetivo do projeto:**
+- Centralizar informações hospitalares
+- Facilitar o controle de atendimentos e consultas
+- Servir como base para um sistema hospitalar escalável
+
+**Tecnologias utilizadas:**
+- Java
+- Spring Boot
+- Spring Data JPA
+- REST API
+- Banco de dados relacional
+- React
+- TailwindCSS
+
+🚧 Projeto em andamento
 
 ---
 
