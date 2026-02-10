@@ -93,8 +93,8 @@ Aplicação full-stack que consome uma API externa de filmes e séries, realiza 
 - Requisições HTTP e manipulação de JSON
 
 ### 🔗 Repositórios
-Backend: *(link aqui)*  
-Frontend: *(link aqui)*
+Backend: https://github.com/giprovazi/screenmatch-backend.git  
+Frontend: https://github.com/giprovazi/screenmatch-frontend.git
 
 
 ## 📫 Contato
