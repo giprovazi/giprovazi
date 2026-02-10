@@ -75,6 +75,28 @@ Sistema **CRM hospitalar** em desenvolvimento, voltado para a gestão de pacient
 
 ---
 
+### 🎬 ScreenMatch — Aplicação Full-Stack de Filmes e Séries
+
+Aplicação full-stack que consome uma API externa de filmes e séries, realiza o tratamento dos dados no backend e disponibiliza as informações para exibição no frontend.
+
+### 📌 Funcionalidades
+- Consumo de API externa REST de filmes e séries  
+- Tratamento e padronização dos dados no backend  
+- Exposição de endpoints para o frontend  
+- Listagem e exibição de detalhes dos conteúdos  
+- Comunicação via HTTP/JSON entre frontend e backend
+
+### 🛠️ Tecnologias
+- Backend: Java + Spring Boot  
+- Frontend: HTML, CSS e JavaScript  
+- Integração com API externa  
+- Requisições HTTP e manipulação de JSON
+
+### 🔗 Repositórios
+Backend: *(link aqui)*  
+Frontend: *(link aqui)*
+
+
 ## 📫 Contato
 - 💼 LinkedIn: https://www.linkedin.com/in/giovanni-provazi/
 - ✉️ Email: giovannirprovazi@gmail.com
